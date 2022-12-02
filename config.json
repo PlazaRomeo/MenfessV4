@@ -1,13 +1,14 @@
 { 
-  "ChatOwner": "6281348106274@s.whatsapp.net",
-  "ownerNumber": "6281348106274@s.whatsapp.net",
-  "botName": "DaniBot",
-  "ownerName": "Dani Maker",
-  "sessionName": "session",
-  "footer": "© DaniBot 2022",
-  "api_lolkey": "SadTeams",
-  "group":{
-  "judul": "Forum Bot WhatsApp",
-  "link": "https://chat.whatsapp.com/IzbGdPjnS1UFRnBGY0a3w6"
+  "Pemilik Obrolan" : " 628819541553@s.whatsapp.net " ,
+  "Nomor Pemilik" : " 628819541553@s.whatsapp.net " ,
+  "botName" : " Ditzz_Makers " ,
+  "ownerName" : " Ditzz_Makers " ,
+  "namasesi" : " sesi " ,
+  "footer" : " © Ditzz_Makers 2022 " ,
+  "api_lolkey" : " Mods_Teams " ,
+  "grup" :{
+  "judul" : " Forum Bot WhatsApp " ,
+  "tautan" : " https://chat.whatsapp.com/K7UvUfcKzP8IwK1feu3xFm "
+  
   }
 }
